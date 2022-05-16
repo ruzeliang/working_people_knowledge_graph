@@ -1,6 +1,4 @@
-# working_people_knowledge_graph
-
-# Organization Knowledge Graph Search Engine
+# Working People Knowledge Graph Search Engine
 
 This is a knowledge graph of working people ready for search. The knowledge graph is built by 
 
